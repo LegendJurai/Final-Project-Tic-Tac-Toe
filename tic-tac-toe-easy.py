@@ -76,6 +76,7 @@ game_active = [0] # Array to avoid scope variables. 0 stands for yes and 1 stand
 
 
 # Starting the Game:
+
 print("Welcome to Tic Tac Toe!")
 print(" ")
 name = input("Enter your name: ")
